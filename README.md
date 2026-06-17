@@ -1,5 +1,8 @@
 # pqi-ffi
 
+[![Hackage](https://img.shields.io/hackage/v/pqi-ffi.svg)](https://hackage.haskell.org/package/pqi-ffi)
+[![Continuous Haddock](https://img.shields.io/badge/haddock-master-blue)](https://nikita-volkov.github.io/pqi-ffi/)
+
 The FFI adapter for [`pqi`](https://github.com/nikita-volkov/pqi),
 backed by [`postgresql-libpq`](https://hackage.haskell.org/package/postgresql-libpq)
 (a binding to the C `libpq` library).
